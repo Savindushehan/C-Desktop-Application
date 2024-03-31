@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\bussinessLayer.dll
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\bussinessLayer.pdb
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.csproj.Up2Date
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.Employee_Form.resources
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\DataAccess.dll
+C:\Users\HP\Desktop\MyProject\Sample\Sample\bin\Debug\DataAccess.pdb
+C:\Users\HP\Desktop\MyProject\Sample\Sample\obj\Debug\Sample.Master_Form.resources

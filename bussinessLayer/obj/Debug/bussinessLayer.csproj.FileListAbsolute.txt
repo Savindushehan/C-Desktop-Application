@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\bin\Debug\bussinessLayer.dll
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\bin\Debug\bussinessLayer.pdb
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\bin\Debug\DataAccess.dll
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\obj\Debug\bussinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\obj\Debug\bussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\obj\Debug\bussines.9246A86E.Up2Date
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\obj\Debug\bussinessLayer.dll
+C:\Users\HP\Desktop\MyProject\Sample\bussinessLayer\obj\Debug\bussinessLayer.pdb
